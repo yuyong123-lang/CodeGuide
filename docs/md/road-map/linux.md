@@ -45,7 +45,7 @@ lock: need
 
 ## 二、环境安装
 
-推荐使用 [termius](https://termius.com/) 工具连接你的云服务，这个工具自带 SFPT 可以方便的上传文件。
+推荐使用 [termius](https://termius.com/) 工具连接你的云服务，这个工具自带 SFTP 可以方便的上传文件。
 
 把 dev-ops 文件夹上传到云服务器上。
 
